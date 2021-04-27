@@ -1,14 +1,13 @@
+｀｀｀task.php
 <?php
 $a = 3;
 $b = 7;
 echo $a + $b;
 
-echo '<br>';
 
 $array_month = ["１月", "２月", "３月", "４月", "５月", "６月", "７月", "８月", "９月", "１０月", "１１月","１２月"];
 echo $array_month [7];
 
-echo '<br>';
 
 $hello = "Hello,";
 $name = "chiho";
@@ -18,7 +17,6 @@ $text .= $name;
 $text .=$world;
 echo $text;
 
-echo '<br>';
 
 $tech_boost ="tech";
 echo $tech_boost . "boost";
@@ -40,3 +38,4 @@ $_2018calendar = [
 
 echo $_2018calendar[December];
 
+```
